@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376777235919",
+    "project_id": "rootally-cc176",
+    "storage_bucket": "rootally-cc176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376777235919:android:4eeb3506bee2cea2e746ba",
+        "android_client_info": {
+          "package_name": "com.example.rootally"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3lYKGdlMw-whjtHgrGiE2KIt009cyPZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
